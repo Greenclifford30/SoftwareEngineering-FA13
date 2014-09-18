@@ -1,0 +1,104 @@
+.left
+
+{	
+
+	text-align:left; 
+
+}
+
+.right
+
+{
+
+	text-align:right;
+
+}
+.center
+{
+	text-align:center;
+}
+.fields
+{
+	margin:10px;
+	font-size:large;
+	font-weight:bold;
+	background-color:#778899;
+	border: 5px groove;
+}
+.fields legend
+{
+	position: relative;
+	top: -16px;
+	margin:0px;
+	text-align:left;
+	border: none;
+	font-size: x-large;
+	
+}
+.tabs {
+	text-align:center;
+
+}
+ .button {
+	
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 20px 2px 20px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+	width: 50px;
+	margin: 5px;
+	
+   }
+#wrapper
+
+{
+
+	columns: 200px 2;
+
+}
+
+footer {
+   
+   bottom:0;
+   width:100%;
+   height:60px; 
+   text-align: center;
+}
+
+#noticont
+{
+	height: 700px;
+}
+
+#notiact
+{
+	float: left;
+	padding: 5px 5px 5px 300px;
+	width: 400px;
+}
+
+#notinoti
+{
+	float: right;
+	padding: 5px 300px 5px 5px;
+	width: 400px;
+}
+
+.lineup
+{
+	float: left;
+	border: 2px solid black;
+	padding: 5px;
+	margin: 10px;
+}
+
+#lot_cont
+{
+	height: 600px;
+	padding: 5px 20px 5px 20px;
+}

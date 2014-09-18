@@ -1,0 +1,22 @@
+.center
+{
+	text-align:center;
+}
+.fields
+{
+	margin:10px;
+	font-size:large;
+	font-weight:bold;
+	background-color:#778899;
+	border: 5px groove;
+}
+.fields legend
+{
+	position: relative;
+	top: -16px;
+	margin:0px;
+	text-align:left;
+	border: none;
+	font-size: x-large;
+	
+}

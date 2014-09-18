@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/swef13groupk/!svn/ver/43/trunk/application/views/pages
+END
+notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/swef13groupk/!svn/ver/48/trunk/application/views/pages/notifications.php
+END
+add_lottery.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/swef13groupk/!svn/ver/26/trunk/application/views/pages/add_lottery.php
+END
+list_select.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/swef13groupk/!svn/ver/39/trunk/application/views/pages/list_select.php
+END
+terms.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/swef13groupk/!svn/ver/26/trunk/application/views/pages/terms.php
+END
+list_viewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/swef13groupk/!svn/ver/39/trunk/application/views/pages/list_viewer.php
+END
+public_select.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/swef13groupk/!svn/ver/39/trunk/application/views/pages/public_select.php
+END
+numStud.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/swef13groupk/!svn/ver/48/trunk/application/views/pages/numStud.php
+END
+public_viewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/swef13groupk/!svn/ver/39/trunk/application/views/pages/public_viewer.php
+END
+lottery.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/swef13groupk/!svn/ver/48/trunk/application/views/pages/lottery.php
+END
+application.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/swef13groupk/!svn/ver/35/trunk/application/views/pages/application.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/swef13groupk/!svn/ver/39/trunk/application/views/pages/admin.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/swef13groupk/!svn/ver/48/trunk/application/views/pages/home.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/swef13groupk/!svn/ver/48/trunk/application/views/pages/login.php
+END
+success.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/swef13groupk/!svn/ver/35/trunk/application/views/pages/success.php
+END
